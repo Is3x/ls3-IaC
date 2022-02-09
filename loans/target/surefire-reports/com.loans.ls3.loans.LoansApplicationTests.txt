@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.loans.ls3.loans.LoansApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.209 s - in com.loans.ls3.loans.LoansApplicationTests
